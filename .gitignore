@@ -3,6 +3,8 @@
 /public/storage
 /storage/*.key
 /vendor
+/tests
+/routes
 /.idea
 Homestead.json
 Homestead.yaml
@@ -15,3 +17,14 @@ _ide_helper.php
 storage
 .phpstorm.meta.php
 .editorconfig
+.gitattributes
+artisan
+composer.json
+composer.lock
+LICENSE
+package.json
+phpunit.xml
+readme.md
+SECURITY.md
+server.php
+webpack.mix.js
